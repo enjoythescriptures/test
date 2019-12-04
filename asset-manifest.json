@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "https://test.enjoythescriptures.org/static/css/main.2726d1b7.chunk.css",
-    "main.js": "https://test.enjoythescriptures.org/static/js/main.0e6c8cf4.chunk.js",
-    "main.js.map": "https://test.enjoythescriptures.org/static/js/main.0e6c8cf4.chunk.js.map",
+    "main.css": "https://test.enjoythescriptures.org/static/css/main.fd933ee3.chunk.css",
+    "main.js": "https://test.enjoythescriptures.org/static/js/main.f03b1454.chunk.js",
+    "main.js.map": "https://test.enjoythescriptures.org/static/js/main.f03b1454.chunk.js.map",
     "runtime-main.js": "https://test.enjoythescriptures.org/static/js/runtime-main.92fb505d.js",
     "runtime-main.js.map": "https://test.enjoythescriptures.org/static/js/runtime-main.92fb505d.js.map",
-    "static/css/2.a430abb9.chunk.css": "https://test.enjoythescriptures.org/static/css/2.a430abb9.chunk.css",
-    "static/js/2.99f4f5ab.chunk.js": "https://test.enjoythescriptures.org/static/js/2.99f4f5ab.chunk.js",
-    "static/js/2.99f4f5ab.chunk.js.map": "https://test.enjoythescriptures.org/static/js/2.99f4f5ab.chunk.js.map",
+    "static/css/2.033454ac.chunk.css": "https://test.enjoythescriptures.org/static/css/2.033454ac.chunk.css",
+    "static/js/2.66c8055c.chunk.js": "https://test.enjoythescriptures.org/static/js/2.66c8055c.chunk.js",
+    "static/js/2.66c8055c.chunk.js.map": "https://test.enjoythescriptures.org/static/js/2.66c8055c.chunk.js.map",
     "index.html": "https://test.enjoythescriptures.org/index.html",
-    "precache-manifest.302fccd852379126760a405b4654662e.js": "https://test.enjoythescriptures.org/precache-manifest.302fccd852379126760a405b4654662e.js",
+    "precache-manifest.bc32baa1c840140dfe38d88c7702afb2.js": "https://test.enjoythescriptures.org/precache-manifest.bc32baa1c840140dfe38d88c7702afb2.js",
     "service-worker.js": "https://test.enjoythescriptures.org/service-worker.js",
-    "static/css/2.a430abb9.chunk.css.map": "https://test.enjoythescriptures.org/static/css/2.a430abb9.chunk.css.map",
-    "static/css/main.2726d1b7.chunk.css.map": "https://test.enjoythescriptures.org/static/css/main.2726d1b7.chunk.css.map"
+    "static/css/2.033454ac.chunk.css.map": "https://test.enjoythescriptures.org/static/css/2.033454ac.chunk.css.map",
+    "static/css/main.fd933ee3.chunk.css.map": "https://test.enjoythescriptures.org/static/css/main.fd933ee3.chunk.css.map"
   }
 }
