@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "be9e46ffe3f8a4d755c51ccf7c501bf4",
+    "revision": "3854e5b7a24f38ab056e0f2ba0a009b1",
     "url": "https://test.enjoythescriptures.org/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "https://test.enjoythescriptures.org/static/css/2.033454ac.chunk.css"
   },
   {
-    "revision": "8df12cfae3c5fb92ba7a",
+    "revision": "761562b72576eeb6b1b4",
     "url": "https://test.enjoythescriptures.org/static/css/main.fd933ee3.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "https://test.enjoythescriptures.org/static/js/2.66c8055c.chunk.js"
   },
   {
-    "revision": "8df12cfae3c5fb92ba7a",
-    "url": "https://test.enjoythescriptures.org/static/js/main.f03b1454.chunk.js"
+    "revision": "761562b72576eeb6b1b4",
+    "url": "https://test.enjoythescriptures.org/static/js/main.246e6da1.chunk.js"
   },
   {
     "revision": "2c3f48c65d77978378c4",
